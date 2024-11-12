@@ -1,14 +1,39 @@
 # LICENCEについて
-MITに基づき公開しています。
+AGPLに基づき公開しています。
 
 このパッケージを使う場合、**あきかき**もしくは**AmeDevelopers**の名前の公開が必須です。
 
 ```
-Copyright 2023 akikaki / AmeDevelopers
+EN:
+    the typed spotipy utils
+    Copyright (C) 2023 akikaki / Ame-Developers
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as 
+    published by the Free Software Foundation; either version 3 of the 
+    License, or (at your option) any later version.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    This program is distributed in the hope that it will be useful, 
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the 
+    GNU Affero General Public License for more details.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    You should have received a copy of the GNU Affero General Public License
+    along with this program. If not, see <https://www.gnu.org/licenses/>.
 
+JP: 
+    型付けされたSpotipy
+    Copyright (C) 2023 akikaki / Ame-Developers
+
+    このプログラムはフリーソフトウェアです。あなたはこれを、フリーソフトウェア
+    財団によって発行されたGNU Affero 一般公衆利用許諾書（バージョン3か、それ以降
+    のバージョンのうちどれか）が定める条件の下で再頒布または改変することが
+    できます。
+
+    このプログラムは有用であることを願って頒布されますが、*全くの無保証*です。
+    *商業可能性の保証や特定目的への適合性は、言外に示されたものも含め、
+    全く存在しません。*詳しくはGNU Affero 一般公衆利用許諾書をご覧ください。あなたは
+    このプログラムと共に、GNU Affero 一般公衆利用許諾書のコピーを一部受け取って
+    いるはずです。もし受け取っていなければ、
+    <https://www.gnu.org/licenses/> をご覧ください。
+```
